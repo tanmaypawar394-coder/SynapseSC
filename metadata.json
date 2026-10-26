@@ -1,0 +1,8 @@
+{
+  "name": "SynapseCS - Master's CS Notes to Flashcards",
+  "description": "Transform messy graduate-level computer science lecture notes, code snippets, PDFs, and whiteboard photos into structured, rigorous flashcards with syntax preservation and active recall testing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
